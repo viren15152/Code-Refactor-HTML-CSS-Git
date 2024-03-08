@@ -16,6 +16,7 @@ I have refactored the code for the Horiseon page it features a large hero banner
 
 ## Visuals
 
+![Landing Page](<Screenshot 2024-03-08 at 00.14.16.png>)
 
 ## Technologies Used
 
