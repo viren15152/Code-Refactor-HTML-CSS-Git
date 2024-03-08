@@ -27,7 +27,7 @@ I have refactored the code for the Horiseon page it features a large hero banner
 ## Usage
 Open the deployed page in default browser and use the navigation bar at the top of the page. 
 
-Deployed Link: 
+Deployed Link: https://viren15152.github.io/Code-Refactor-HTML-CSS-Git/
 
 ## Contributing
 
